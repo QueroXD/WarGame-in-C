@@ -1,3 +1,5 @@
+![banner](./assets/_c2b69e5c-decb-413e-ba30-fee1c400d9b8.jpeg)
+
 # WarGame in C
 
 Este proyecto es una implementación en C del juego WarGame, desarrollado como parte de un examen. En esta versión del juego, no es necesario que el usuario interactúe, ya que el programa está diseñado para que dos "bots" jueguen entre sí.
